@@ -1,0 +1,5 @@
+{
+  "name": "Video Game Bulletin (VGB)",
+  "description": "A modern, single-page React application for video game news, release calendars, and community reviews. Features Firebase authentication, role-based dashboards, and a dynamic calendar system.",
+  "requestFramePermissions": []
+}
